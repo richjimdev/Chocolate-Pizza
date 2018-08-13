@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+.top-header {
+  margin: auto;
+  margin-top: 20px;
+  width: 960px;
+  background-color: aquamarine;
+  height: 150px;
+  text-align: left;
+}
+
+.top-logo {
+  float: left;
+  margin-right: 12px;
+}
+
+.delicious-title {
+  margin-top: 0px;
+  /* float: left; */
+  font-family: 'Yellowtail', cursive;
+  font-size: 30px;
+}
+
+.logo-subtitle {
+  text-transform: uppercase;
+  font-family: 'Inconsolata', monospace;
+  font-size: 12px;
+  letter-spacing: -1px;
+}
+
+.social-icons {
+  padding-top: 15px;
+  float: right;
+}
+
+.small-top-logos {
+  /* padding: 2px; */
+  /* float: right; */
+}
+
+.small-top-logos-spacer {
+  padding-right: 10px;
+}
